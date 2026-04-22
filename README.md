@@ -1,4 +1,4 @@
-# Clean Architecture - Api layer challenge
+# Clean Architecture - Notification Pattern challenge
 
 ## Sobre este Projeto
 
